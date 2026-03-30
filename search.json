@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/20260329-cartogram/index.html",
+    "href": "posts/20260329-cartogram/index.html",
+    "title": "La otra españa vacia",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "**the banlieue gap** &nbsp; research notes",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\n\nMar 29, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nMar 26, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Entrada de prueba*\nThis is the first entry of the banlieue gap — a research journal and occasional notebook.\nI created this space to document the process of my PhD research on urban mobility and territorial accessibility in Madrid, but also to write more freely about cities, transport, maps and the places I move through.\nSome entries will be analytical. Some will be maps or data explorations. Others will just be notes from the road.\nWelcome.\n\n\n\nDorling cartogram — Origins and destinations of commuting mobility in Madrid"
   },
   {
     "objectID": "about.html",
@@ -21,10 +14,10 @@
     "text": "I create the banlieue gap as an occasional research journal —a space for analytical notes, methodological reflections, maps, and some field writing. Opinions only represent my own.\nWith a passion for mobility planning, and several years in the internatoinal practice at Ingerop, I am conducting a joint PhD project with tGIS group at Madrid’s UCM. My research focuses on spatial interaction models, territorial accessibility and urban development in the Madrid metropolitan area, with a strong focus in the future of this territory. My thesis develops a framework to forecast transport futures with innovative datasets, GIS and R.\nRaised in Alcalá de Henares, my life has brought me in the last 10 years to live in Paris, Barcelona and Madrid, and several short experiences in Lyon, Toronto and London. With a deep passion for public transport and cities, My educational background include Architecture (BSc, Universidad de Alcalá), Urban and transport planning (MSc, Ecole d’urbanisme de Paris, Ecole de Ponts) and Geography (PhD, UCM). A strong believer in intersectional research across fields, practice and academy. A passionate musician and a languages enthousiast."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "**the banlieue gap** &nbsp; research notes",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "La otra españa vacia\n\n\nCartograma de origenes y destinos\n\n\n\n\n\nMar 29, 2026\n\n\n\n\n\nNo matching items"
   }
 ]

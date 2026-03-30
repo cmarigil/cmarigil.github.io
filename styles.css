@@ -51,3 +51,31 @@ h1.title {
   font-size: 1rem !important;
   color: #888 !important;
 }
+
+.quarto-post .thumbnail img {
+  filter: grayscale(100%);
+  opacity: 0.75;
+  transition: filter 0.3s ease, opacity 0.3s ease;
+}
+
+.quarto-post .thumbnail img:hover {
+  filter: grayscale(0%);
+}
+
+.navbar-nav .nav-link:hover {
+  color: yellow !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: yellow !important;
+}
+
+.navbar-brand:hover {
+  color: yellow !important;
+}
+
+.quarto-title-banner {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  min-height: 0 !important;
+}

@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cmarigil.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-03-29T19:47:30.242Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cmarigil.github.io/index.html</loc>
-    <lastmod>2026-03-29T20:56:01.079Z</lastmod>
+    <loc>https://cmarigil.github.io/posts/20260329-cartogram/index.html</loc>
+    <lastmod>2026-03-30T14:59:24.247Z</lastmod>
   </url>
   <url>
     <loc>https://cmarigil.github.io/about.html</loc>
     <lastmod>2026-03-30T12:08:59.116Z</lastmod>
   </url>
   <url>
-    <loc>https://cmarigil.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2026-03-29T19:47:30.242Z</lastmod>
+    <loc>https://cmarigil.github.io/index.html</loc>
+    <lastmod>2026-03-30T14:43:47.073Z</lastmod>
   </url>
 </urlset>
