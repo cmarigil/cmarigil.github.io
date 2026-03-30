@@ -17,9 +17,11 @@
   padding-right: 12rem;
 }
 
-.about-contents p {
+.about-contents p,
+.about-contents li {
   font-size: 0.9rem !important;
   font-weight: normal !important;
+  line-height: 1.6;
 }
 
 .about-entity {
@@ -29,4 +31,23 @@
 h1.title {
   font-size: 1.2rem;
   font-weight: 600;
+}
+
+#quarto-content .about-entity {
+  padding-left: 0rem !important;
+  margin-left: 0 !important;
+}
+
+#quarto-content .about-contents {
+  padding-right: 0rem !important;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.85rem !important;
+  font-weight: normal !important;
+}
+
+.about-entity p {
+  font-size: 1rem !important;
+  color: #888 !important;
 }
