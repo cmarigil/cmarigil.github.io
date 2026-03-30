@@ -1,7 +1,32 @@
 /* css styles */
 
 .navbar {
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: 0.85rem;
+  min-height: 36px;
+}
+
+.navbar-brand {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.navbar > .container-fluid {
+  padding-left: 10rem;
+  padding-right: 12rem;
+}
+
+.about-contents p {
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+}
+
+.about-entity {
   font-size: 0.9rem;
+}
+
+h1.title {
+  font-size: 1.2rem;
+  font-weight: 600;
 }
