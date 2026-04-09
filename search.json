@@ -4,7 +4,7 @@
     "href": "posts/20260408-shinyapp/index.html",
     "title": "Madflux. A day in Madrid metropolitan area",
     "section": "",
-    "text": "Interactive visor across MITMA phone data and modal share in each municipality of Madrid Region through declared preferences in 2018 regional survey.\nFor a curious observer of mobility, and of course for decision-maker in any level of administration, it is interesting to know how mobility flows work. This is the reason why MITMA releases seasonly mobile phone registers translated in pairs of any flux between different districts.\nIn the framework of The Banlieue Gap research project, we aim to represent and outline with data the reality of Madrid Region mobility, with a special focus on metropolitan peripheries. This is part of a project touching accessibility, mobility forecasting and data."
+    "text": "For a curious observer of mobility, and of course for decision-making in any level of administration, it is interesting to know how mobility flows work. This is the reason why MITMA releases seasonly mobile phone registers translated in pairs of any flux between different districts.\nInteractive visor across MITMA phone data and modal share in each municipality of Madrid Region through declared preferences in 2018 regional survey.\nIn the framework of The Banlieue Gap research project, we aim to represent and outline with data the reality of Madrid Region mobility, with a special focus on metropolitan peripheries. This is part of a project touching accessibility, mobility forecasting and data."
   },
   {
     "objectID": "posts/20260408-shinyapp/index.html#methodological-note",
@@ -12,5 +12,26 @@
     "title": "Madflux. A day in Madrid metropolitan area",
     "section": "Methodological note",
     "text": "Methodological note\nMobility flows come from MITMA mobile phone data, specifically from three representative working days in October 2025 (14th, 15th and 16th), aggregated to the municipal level by combining the constituent districts.\nModal split was estimated from the Madrid Household Mobility Survey (EDM 2018), produced by the Madrid Regional Transport Consortium (CRTM). The shares of car, public transport and soft modes (walking and cycling) were calculated for each origin-destination pair at the transport zone level (ZT1259), then aggregated to the municipal level using a weighted mean by trip volume. Only OD pairs with more than 200 daily trips and sufficient survey representation are shown.\nThe three modes are defined as: public transport (Cercanías commuter rail, metro, urban and interurban bus, tram and other Renfe services); car (driver and passenger in private, company or rental vehicle, and motorcycle); soft modes (cycling, walking and others).\nSources:\nMITMA — Mobility Study using Telecommunications Operators Records (October 2025);\nCRTM — Madrid Household Mobility Survey, EDM 2018;\nR packages from Kotov E, Vidal-Tortosa E, Cantú-Ros O, Burrieza-Galán J, Herranz R, Gullón Muñoz-Repiso T, Lovelace R (2026). “spanishoddata: A package for accessing and working with Spanish Open Mobility Big Data.” Environment and Planning B: Urban Analytics and City Science. ISSN 2399-8083;\nShiny apps: Chang W, Cheng J, Allaire J, Sievert C, Schloerke B, Xie Y, Allen J, McPherson J, Dipert A, Borges B (2023). shiny: Web Application Framework for R. R package version 1.7.5. https://CRAN.R-project.org/package=shiny\nLeaflet: Cheng J, Karambelkar B, Xie Y (2023). leaflet: Create Interactive Web Maps with the JavaScript ‘Leaflet’ Library. R package version 2.2.0. https://CRAN.R-project.org/package=leaflet\nAuthor: Carlos Marigil Alba, as part of the doctoral collaboration between Ingerop and Universidad Complutense de Madrid."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "**the banlieue gap** &nbsp; research notes",
+    "section": "",
+    "text": "Madflux. A day in Madrid metropolitan area\n\n\n\n\n\n\n\n\nApr 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nLa otra españa vacia\n\n\nCartograma de origenes y destinos\n\n\n\n\n\nMar 29, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Carlos Marigil Alba",
+    "section": "",
+    "text": "I create the banlieue gap as an occasional research journal —a space for analytical notes, methodological reflections, maps, and some field writing. Opinions only represent my own.\nWith a passion for mobility planning, and several years in the internatoinal practice at Ingerop, I am conducting a joint PhD project with tGIS group at Madrid’s UCM. My research focuses on spatial interaction models, territorial accessibility and urban development in the Madrid metropolitan area, with a strong focus in the future of this territory. My thesis develops a framework to forecast transport futures with innovative datasets, GIS and R.\nRaised in Alcalá de Henares, my life has brought me in the last 10 years to live in Paris, Barcelona and Madrid, and several short experiences in Lyon, Toronto and London. With a deep passion for public transport and cities, My educational background include Architecture (BSc, Universidad de Alcalá), Urban and transport planning (MSc, Ecole d’urbanisme de Paris, Ecole de Ponts) and Geography (PhD, UCM). A strong believer in intersectional research across fields, practice and academy. A passionate musician and a languages enthousiast."
+  },
+  {
+    "objectID": "posts/20260329-cartogram/index.html",
+    "href": "posts/20260329-cartogram/index.html",
+    "title": "La otra españa vacia",
+    "section": "",
+    "text": "Entrada de prueba*\nThis is the first entry of the banlieue gap — a research journal and occasional notebook.\nI created this space to document the process of my PhD research on urban mobility and territorial accessibility in Madrid, but also to write more freely about cities, transport, maps and the places I move through.\nSome entries will be analytical. Some will be maps or data explorations. Others will just be notes from the road.\nWelcome.\n\n\n\nDorling cartogram — Origins and destinations of commuting mobility in Madrid"
   }
 ]
