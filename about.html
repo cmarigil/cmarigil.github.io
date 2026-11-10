@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title"><strong>the banlieue gap</strong></span>
+    <span class="navbar-title">the banlieue gap</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -558,6 +558,27 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script>
+function alignNavbar() {
+  var nav = document.querySelector('.navbar .navbar-container');
+  var ref = document.querySelector('.quarto-about-trestles') || document.querySelector('main.content');
+  if (!nav || !ref) return;
+  nav.style.paddingLeft = '';
+  nav.style.paddingRight = '';
+  if (window.innerWidth < 992) return;
+  var r  = ref.getBoundingClientRect();
+  var cw = document.documentElement.clientWidth;
+  nav.style.paddingLeft  = r.left + 'px';
+  nav.style.paddingRight = Math.max(16, cw - r.right - 8) + 'px';
+  var brand = nav.querySelector('.navbar-brand');
+  if (brand) {
+    var dl = brand.getBoundingClientRect().left - r.left;
+    nav.style.paddingLeft = (r.left - dl) + 'px';
+  }
+}
+window.addEventListener('load', alignNavbar);
+window.addEventListener('resize', alignNavbar);
+</script>
 
 
 
